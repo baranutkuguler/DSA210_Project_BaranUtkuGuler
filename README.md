@@ -1,5 +1,16 @@
 # DSA210_Project_BaranUtkuGuler
 
+
+
+
+
+
+YOU CAN FİND MY FİNAL REPORT HERE :
+
+
+
+
+
 # Health Data Analysis Project
 
 This project focuses on analyzing personal health data from **Apple Health** and **e-Nabız** to gain insights into various health metrics such as heart rhythm, activity levels, and blood test results. The aim is to process the raw data, visualize key metrics, and analyze relationships between them to detect anomalies and better understand personal health trends.
