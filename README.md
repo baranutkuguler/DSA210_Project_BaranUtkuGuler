@@ -5,7 +5,7 @@
 
 
 
-YOU CAN FİND MY FİNAL REPORT HERE :report.pdf
+YOU CAN FİND MY FİNAL REPORT HERE :report.pdf https://github.com/baranutkuguler/DSA210_Project_BaranUtkuGuler/blob/main/report.pdf
 
 
 
